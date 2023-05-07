@@ -18,12 +18,6 @@
 			<reason>Lint false positive for ’eighties</reason>
 		</ignore>
 	</file>
-	<file path="chapter-5.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
-		</ignore>
-	</file>
 	<file path="chapter-6.xhtml">
 		<ignore>
 			<code>t-042</code>
