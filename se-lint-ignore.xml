@@ -30,10 +30,22 @@
 			<reason>Lint false positive for ’eighties</reason>
 		</ignore>
 	</file>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>t-063</code>
+			<reason>Phrase is easy to understand and doesn't need to be in italics</reason>
+		</ignore>
+	</file>
+	<file path="chapter-15.xhtml">
+		<ignore>
+			<code>t-004</code>
+			<reason>Lint false positive for ’nineties</reason>
+		</ignore>
+	</file>
 	<file path="chapter-15.xhtml">
 		<ignore>
 			<code>t-042</code>
-			<reason>Lint false positive for ’eighties, ’nineties</reason>
+			<reason>Lint false positive for ’nineties</reason>
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
