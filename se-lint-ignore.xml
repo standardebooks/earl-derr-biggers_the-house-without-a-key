@@ -12,64 +12,10 @@
 			<reason>Lint false positive for ’eighties, ’Frisco</reason>
 		</ignore>
 	</file>
-	<file path="chapter-5.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-6.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-7.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
-		</ignore>
-	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
 			<code>t-063</code>
 			<reason>Phrase is easy to understand and doesn't need to be in italics</reason>
-		</ignore>
-	</file>
-	<file path="chapter-15.xhtml">
-		<ignore>
-			<code>t-004</code>
-			<reason>Lint false positive for ’nineties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-15.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’nineties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-17.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties, ’nineties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-18.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
-		</ignore>
-	</file>
-	<file path="chapter-21.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’forty-nine</reason>
-		</ignore>
-	</file>
-	<file path="chapter-23.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Lint false positive for ’eighties</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
