@@ -39,9 +39,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Charlie Chan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A member of a prominent Boston family, upon ariving in Honolulu is asked to aid in the investigation of his relative’s murder.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Published in 1925, &lt;i&gt;The House Without a Key&lt;/i&gt;, introduces the kindly &lt;a href="https://standardebooks.org/collections/charlie-chan"&gt;Charlie Chan&lt;/a&gt;., conceived by &lt;a href="https://standardebooks.org/ebooks/earl-derr-biggers"&gt;Earl Derr Biggers&lt;/a&gt; to counter the Dr. Fu-Manchu “Yellow Peril” stereotype.&lt;/p&gt;
+			&lt;p&gt;John Quincy Winterslip, having been sent by his family to convince his aunt to return to Boston, arrives in Honolulu to find that a rich family member with a shady past has been murdered. Detective Charlie Chan of the Honolulu Police Department, recruits John to aid in the investigation. On the way to discovering the murderer, John learns about Chinese culture and true love.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/books/20120510/html.php</dc:source>
