@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/earl-derr-biggers/the-house-without-a-key</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-10T20:44:43Z</dc:date>
+		<meta property="dcterms:modified">2023-05-10T20:44:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,17 +39,16 @@
 		<meta id="collection-1" property="belongs-to-collection">Charlie Chan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A member of a prominent Boston family, upon ariving in Honolulu is asked to aid in the investigation of his relative’s murder.</dc:description>
+		<dc:description id="description">Upon ariving in Honolulu, a member of a prominent Boston family is asked to aid in the investigation of his relative’s murder.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1925, &lt;i&gt;The House Without a Key&lt;/i&gt;, introduces the kindly &lt;a href="https://standardebooks.org/collections/charlie-chan"&gt;Charlie Chan&lt;/a&gt;, conceived by &lt;a href="https://standardebooks.org/ebooks/earl-derr-biggers"&gt;Earl Derr Biggers&lt;/a&gt; to counter the &lt;a href="https://standardebooks.org/collections/fu-manchu"&gt;Fu-Manchu&lt;/a&gt; “Yellow Peril” stereotype.&lt;/p&gt;
-			&lt;p&gt;John Quincy Winterslip, having been sent by his family to convince his aunt to return to Boston, arrives in Honolulu to find that a rich family member with a shady past has been murdered. Detective Charlie Chan of the Honolulu Police Department, recruits John to aid in the investigation. On the way to discovering the murderer, John learns about Chinese culture and true love.&lt;/p&gt;
-			&lt;p&gt;The novel was adapted twice for film and once for stage.&lt;/p&gt;
+			&lt;p&gt;Published in 1925, &lt;i&gt;The House Without a Key&lt;/i&gt; introduces the kindly detective &lt;a href="https://standardebooks.org/collections/charlie-chan"&gt;Charlie Chan&lt;/a&gt;, conceived by &lt;a href="https://standardebooks.org/ebooks/earl-derr-biggers"&gt;Earl Derr Biggers&lt;/a&gt; as a counter to the “Yellow Peril” stereotypes common in the era’s society.&lt;/p&gt;
+			&lt;p&gt;John Quincy Winterslip, having been sent by his family to convince his aunt to return to Boston, arrives in Honolulu to find that a rich family member with a shady past has been murdered. Detective Charlie Chan of the Honolulu Police Department recruits John to aid in the investigation. As he works to uncover the murderer, John learns about Chinese culture—and true love.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/books/20120510/html.php</dc:source>
 		<dc:source>https://archive.org/details/housewithoutkey00bigg/mode/2up</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">85521</meta>
+		<meta property="se:reading-ease.flesch">77.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_Without_a_Key</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/earl-derr-biggers_the-house-without-a-key</meta>
 		<dc:creator id="author">Earl Derr Biggers</dc:creator>
@@ -69,13 +68,17 @@
 		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Walz, Norman</meta>
+		<meta property="file-as" refines="#producer-1">Walz, Norman C.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
