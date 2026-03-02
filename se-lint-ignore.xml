@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-10.xhtml">
-		<ignore>
-			<code>t-063</code>
+		<ignore code="t-063">
 			<reason>Phrase is easy to understand and doesn't need to be in italics</reason>
 		</ignore>
 	</file>
