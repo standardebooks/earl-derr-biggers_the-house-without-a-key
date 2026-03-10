@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-10.xhtml">
 		<ignore code="t-063">
+			<line>125</line>
 			<reason>Phrase is easy to understand and doesn't need to be in italics</reason>
 		</ignore>
 	</file>
